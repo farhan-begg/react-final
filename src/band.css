@@ -1,0 +1,16 @@
+.Band {
+    height: 22rem;
+    background-color: #f7f7f7;
+    font-weight: bold;
+    border-color: black;
+
+}
+
+h3 {
+    color: black;
+    text-shadow: 0 0 3px rgb(255, 255, 255), 0 0 5px rgb(0, 0, 0);
+}
+
+h3:hover{
+    color:grey;
+}
